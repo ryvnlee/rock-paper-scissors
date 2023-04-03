@@ -1,1 +1,1 @@
-# rock-paper-scissors
+Created the classic rock-paper-scissors game. This is my first JavaScript program built from scratch.
